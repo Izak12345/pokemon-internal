@@ -1,0 +1,27 @@
+body {
+  background-color: yellow !important;
+}
+
+.header{
+  background-color: red !important;
+  padding:55px;
+}
+
+#icon{
+  max-width: 60px;
+  height: auto;
+  float: left;
+  padding:10px;
+  padding-bottom:20px !important;
+}
+
+/* souisf https://www.w3schools.com/howto/howto_css_fixed_footer.asp */
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: black;
+  text-align: center;
+}
